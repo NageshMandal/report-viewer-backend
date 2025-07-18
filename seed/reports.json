@@ -1,0 +1,170 @@
+[
+  {
+    "title": "Quantum Computing IP Landscape 2025",
+    "summary": "This comprehensive report delves into the shifting intellectual property (IP) terrain within the quantum computing domain. It identifies leading patent assignees such as IBM, Google, and Alibaba, evaluates the surge in filings across jurisdictions like the U.S. (USPTO), Europe (EPO), and Asia (notably China and South Korea), and highlights growing clusters in quantum error correction, quantum networking, and cryogenic control systems. Special attention is given to the increasing frequency of patent litigation and cross-licensing agreements, signaling intense competition and strategic positioning. It also examines geopolitical trends influencing filing behaviors, particularly the push for IP sovereignty in quantum technologies by regional blocs.",
+    "reportType": "IP Analysis",
+    "industry": "Quantum Technology",
+    "confidenceScore": 91,
+    "sources": [
+      {
+        "type": "Patent Filing",
+        "origin": "USPTO",
+        "excerpt": "IBM filed 36 new quantum computing patents in Q1 2025.",
+        "relevanceScore": 0.88
+      },
+      {
+        "type": "Market Trend",
+        "origin": "WIPO",
+        "excerpt": "Asia-Pacific shows a 47% surge in quantum-related filings YoY.",
+        "relevanceScore": 0.82
+      }
+    ]
+  },
+  {
+    "title": "Autonomous Vehicles Competitive Signal Report",
+    "summary": "This report provides a granular overview of strategic moves in the autonomous vehicle (AV) sector, focusing on competitive signals like mergers & acquisitions, R&D investments, and product development cycles. It tracks key players such as Tesla, Waymo, Baidu, and NVIDIA, highlighting their strategic bets on perception systems, AV chipsets, and Level 4 automation capabilities. The report outlines how capital allocation, startup acquisitions, and proprietary AI stack development are shaping the AV landscape. Market sentiment and investor confidence are also analyzed in light of recent earnings calls and public announcements.",
+    "reportType": "Competitive Signal",
+    "industry": "Automotive",
+    "confidenceScore": 85,
+    "sources": [
+      {
+        "type": "Earnings Call",
+        "origin": "Tesla Q1 2025",
+        "excerpt": "We plan to double investment in AV chips.",
+        "relevanceScore": 0.93
+      },
+      {
+        "type": "Acquisition Filing",
+        "origin": "SEC",
+        "excerpt": "Waymo acquired 3D perception startup 'VixelIQ' for $126M.",
+        "relevanceScore": 0.89
+      }
+    ]
+  },
+  {
+    "title": "Generative AI Market Inflection Points",
+    "summary": "This in-depth analysis explores the fundamental shifts in the Generative AI (GenAI) market, mapping out changes in venture capital funding dynamics, increasing open-source LLM adoption, and new monetization pathways via API platforms such as OpenAI, Cohere, and Anthropic. The report tracks how market maturity is creating a bifurcation in funding—early-stage startups face tightening capital, while late-stage players secure mega-rounds. Usage analytics reveal significant month-on-month growth in fine-tuned API usage, indicating enterprise-scale deployments. The report also assesses regulatory tailwinds, emerging pricing models, and barriers to model differentiation in a saturated ecosystem.",
+    "reportType": "Market Analysis",
+    "industry": "Artificial Intelligence",
+    "confidenceScore": 93,
+    "sources": [
+      {
+        "type": "Private Dataset",
+        "origin": "VC Deal Tracker",
+        "excerpt": "GenAI funding dropped 22% in early-stage but grew 35% in late-stage deals in Q2 2025.",
+        "relevanceScore": 0.92
+      },
+      {
+        "type": "API Usage",
+        "origin": "OpenAI Platform Analytics",
+        "excerpt": "Fine-tuned LLM API calls increased by 61% MoM.",
+        "relevanceScore": 0.87
+      }
+    ]
+  },
+  {
+    "title": "CRISPR Regulatory Risk Index",
+    "summary": "This report synthesizes developments in regulatory frameworks governing the commercial deployment of CRISPR gene editing technologies across key regions—namely the U.S., EU, and China. It assesses the evolving compliance requirements in agricultural biotechnology and human therapeutics, including off-target mutation guidelines, labeling mandates, and traceability protocols. The analysis highlights potential bottlenecks for product approvals and flags jurisdictions introducing new legislation. Risk indices are calculated based on recent policy documents, stakeholder responses, and historical regulatory timelines, offering a forward-looking view on how global biotech firms should adapt their go-to-market strategies.",
+    "reportType": "Regulatory Risk",
+    "industry": "Biotech",
+    "confidenceScore": 78,
+    "sources": [
+      {
+        "type": "Regulatory Filing",
+        "origin": "FDA",
+        "excerpt": "The FDA has added new guidelines for off-target edits in somatic cell therapies.",
+        "relevanceScore": 0.79
+      },
+      {
+        "type": "Policy Brief",
+        "origin": "European Medicines Agency",
+        "excerpt": "Mandatory traceability for all CRISPR-edited crops proposed in 2025 green paper.",
+        "relevanceScore": 0.75
+      }
+    ]
+  },
+  {
+    "title": "Edge AI in Industrial IoT: Adoption Trends",
+    "summary": "This report investigates the growing integration of Edge AI hardware and software into industrial IoT (IIoT) systems. It highlights how manufacturers are deploying smart controllers, AI-powered PLCs, and low-latency analytics to enhance operational efficiency and reduce machine downtime. Through case studies and survey data, the report shows that predictive maintenance, quality inspection, and closed-loop automation are the top use cases driving adoption. The role of chip vendors such as NVIDIA, AMD, and Qualcomm is discussed in the context of hardware optimization for harsh industrial environments. Adoption barriers like data interoperability, workforce upskilling, and upfront CapEx are also analyzed.",
+    "reportType": "Tech Adoption",
+    "industry": "Industrial Automation",
+    "confidenceScore": 88,
+    "sources": [
+      {
+        "type": "Conference Paper",
+        "origin": "IEEE ICMLA 2025",
+        "excerpt": "Smart PLCs powered by Nvidia Jetson reduced machine downtime by 34%.",
+        "relevanceScore": 0.85
+      },
+      {
+        "type": "Industry Survey",
+        "origin": "Gartner Insights",
+        "excerpt": "57% of large manufacturers are piloting edge AI on production lines.",
+        "relevanceScore": 0.81
+      }
+    ]
+  },
+  {
+    "title": "Fintech AML Risk Assessment Report",
+    "summary": "This report examines how neobanks, digital wallets, and fintech lenders are evolving their compliance frameworks to meet anti-money laundering (AML) requirements using AI-driven transaction monitoring. It assesses the effectiveness of machine learning models, including supervised and unsupervised learning techniques, in flagging suspicious activities. Case studies spotlight successful fraud detection mechanisms and regulatory acceptability as confirmed by global bodies like FATF. The report also outlines key challenges, such as maintaining audit logs, ensuring explainability of AI decisions, and aligning with cross-border AML regulations.",
+    "reportType": "Compliance Snapshot",
+    "industry": "Fintech",
+    "confidenceScore": 83,
+    "sources": [
+      {
+        "type": "Regulatory Review",
+        "origin": "FATF",
+        "excerpt": "AI-based AML systems are acceptable if traceability and audit logs are retained.",
+        "relevanceScore": 0.84
+      },
+      {
+        "type": "Case Study",
+        "origin": "Monzo",
+        "excerpt": "Monzo caught $1.4M fraud using unsupervised anomaly detection models.",
+        "relevanceScore": 0.91
+      }
+    ]
+  },
+  {
+    "title": "AR/VR Patent Filing Acceleration",
+    "summary": "This report uncovers trends in the rapid acceleration of patent activity in the AR/VR industry, particularly around spatial computing, photonics, and haptics. It provides an analysis of patent clusters related to Apple Vision Pro and Meta’s Reality Labs, exploring core IP in optics, spatial audio, and multi-sensory feedback. The report reveals how the competitive landscape is shifting toward vertically integrated platforms, where hardware, OS, and SDKs are tightly coupled. It also examines filing trends by region and patent family citations to assess innovation momentum and potential IP bottlenecks in headset and XR peripheral design.",
+    "reportType": "IP Trends",
+    "industry": "XR (AR/VR)",
+    "confidenceScore": 89,
+    "sources": [
+      {
+        "type": "Patent Cluster",
+        "origin": "Lens.org",
+        "excerpt": "14% CAGR in photonic lensing patents for headsets filed between 2022–2025.",
+        "relevanceScore": 0.86
+      },
+      {
+        "type": "Product Launch",
+        "origin": "Apple WWDC",
+        "excerpt": "Apple Vision Pro SDK enables direct haptics integration with VisionKit.",
+        "relevanceScore": 0.90
+      }
+    ]
+  },
+  {
+    "title": "Battery Tech Disruption Watch",
+    "summary": "This report highlights disruptive signals in battery innovation, with a focus on solid-state and sodium-ion technologies. It synthesizes breakthroughs in energy density, safety, and manufacturing scalability from academic papers, startup investments, and patent filings. The report details advancements like layered cathode chemistry, dendrite suppression techniques, and thermal management systems. It also profiles startups such as SolidVolt and Natron Energy that are attracting VC interest for commercializing next-gen battery architectures. Regulatory readiness, market timelines, and automotive industry partnerships are also assessed to estimate commercialization trajectories.",
+    "reportType": "Tech Watch",
+    "industry": "Energy Storage",
+    "confidenceScore": 87,
+    "sources": [
+      {
+        "type": "Research Paper",
+        "origin": "Nature Materials",
+        "excerpt": "Sodium-ion prototypes using layered cathodes achieved 340 Wh/kg.",
+        "relevanceScore": 0.89
+      },
+      {
+        "type": "Startup Watch",
+        "origin": "Crunchbase",
+        "excerpt": "SolidVolt closed $44M Series B for solid-state pouch cell manufacturing.",
+        "relevanceScore": 0.93
+      }
+    ]
+  }
+]
